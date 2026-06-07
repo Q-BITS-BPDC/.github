@@ -144,7 +144,7 @@ Q-BITS is open to all BITS Pilani Dubai students, any branch, any year.
 
 <!-- - **Discord** — [discord.gg/your-invite](https://discord.gg/your-invite) -->
 - **WhatsApp** — contact any team member for the link
-- **Email** — qbits@pilani.bits-pilani.ac.in
+- **Email** — qbits@dubai.bits-pilani.ac.in
 
 Want to contribute to a project or propose a new one? Check `CONTRIBUTING.md` inside any repo.
 
