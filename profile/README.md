@@ -14,8 +14,8 @@
 
 **Bridging quantum theory and real-world engineering, one qubit at a time.**
 
-[![Members](https://img.shields.io/badge/Members-Open-4C9BE8?style=flat-square)](https://github.com/q-bits-bpdc)
-[![Workshops](https://img.shields.io/badge/Workshops-Active-2ECC71?style=flat-square)](https://github.com/q-bits-bpdc/workshops)
+[![Members](https://img.shields.io/badge/Members-Open-4C9BE8?style=flat-square)](https://github.com/Q-BITS-BPDC)
+[![Workshops](https://img.shields.io/badge/Workshops-Active-2ECC71?style=flat-square)](https://github.com/Q-BITS-BPDC/workshops)
 <!-- [![Discord](https://img.shields.io/badge/Discord-Join_Us-7289DA?style=flat-square)](https://discord.gg/your-invite) -->
 
 </div>
@@ -66,7 +66,7 @@ Track 3 — Hardware       Track 1 + some physics
 | 1 | Quantum Fourier Transform | Phase kickback, QFT circuit |
 | 1 | Shor's Algorithm | Factoring, period finding |
 
-Full workshop materials → [`workshops`](https://github.com/q-bits-bpdc/workshops)
+Full workshop materials → [`workshops`](https://github.com/Q-BITS-BPDC/workshops)
 
 ---
 
