@@ -76,7 +76,7 @@ Research and open-source work by Q-BITS members. Authorship stays with the autho
 
 | Project | Author | Description | Stack |
 |---|---|---|---|
-| [QResP](https://github.com/adityasharma1307/qresp) | [@adityasharma1307](https://github.com/adityasharma1307) | Quantum-resilient provenance audit of 1,000 HuggingFace models — 99.8% unsigned, 0% post-quantum safe | Python, Sigstore |
+| [QResP](https://github.com/Q-BITS-BPDC/qresp) | [@adityasharma1307](https://github.com/adityasharma1307) | Quantum-resilient provenance audit of 1,000 HuggingFace models — 99.8% unsigned, 0% post-quantum safe | Python, Sigstore |
 
 *Building something quantum-related? Open a PR to [member-projects](https://github.com/Q-BITS-BPDC/member-projects) to get listed here.*
 
